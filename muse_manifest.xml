@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.susancarvillreflexology.co.uk" resolutions="1x" timestamp="1453641048003">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.susancarvillreflexology.co.uk" resolutions="1x" timestamp="1453642267901">
   <folder name="css">
     <file name="site_global.css" crc="497418720"/>
-    <file name="index.css" crc="3791197225" ref="index"/>
+    <file name="index.css" crc="4136512793" ref="index"/>
     <file name="iefonts_index.css" crc="151703762" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -22,9 +22,6 @@
   <folder name="images">
     <file name="logo-white.png" crc="212486849" ref="phone>index:tablet>index:index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
-    <file name="u5262.png" crc="361625584" ref="phone>index"/>
-    <file name="u5262-r.png" crc="68177469" ref="phone>index"/>
-    <file name="u5262-a.png" crc="68177469" ref="phone>index"/>
     <file name="01-crop-u10316.jpg" crc="4042607388" ref="phone>index"/>
     <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
     <file name="notebook_@2x.jpg" crc="345872913" ref="phone>index:index"/>
@@ -37,8 +34,6 @@
     <file name="derma-tested-u10377-fr.png" crc="450018790" ref="phone>index"/>
     <file name="carbon-neutral-u10378-fr.png" crc="389419510" ref="phone>index"/>
     <file name="soil-ass-u10379-fr.png" crc="41622442" ref="phone>index"/>
-    <file name="vtct1-u10389.png" crc="4147054333" ref="phone>index"/>
-    <file name="vtct1-u10389-r.png" crc="4147054333" ref="phone>index"/>
     <file name="12.jpg" crc="4172687976" ref="tablet>index"/>
     <file name="scroll-down.gif" crc="332714920" ref="tablet>index"/>
     <file name="u4957-4.png" crc="54191417" ref="tablet>index"/>
@@ -77,10 +72,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4142211017" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="4211462753" ref="phone>index"/>
+      <file name="index.css" crc="195181782" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4078759834" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3946622161" seo="true" mt="1453640466472" redirect="true"/>
+    <file name="index.html" crc="4224368278" seo="true" mt="1453642195031" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3832098976" seo="true" mt="1453641037848" redirect="true"/>
+  <file name="index.html" crc="341818389" seo="true" mt="1453642254861" redirect="true"/>
 </manifest>
