@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.susancarvillreflexology.co.uk" resolutions="1x" timestamp="1453640500185">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.susancarvillreflexology.co.uk" resolutions="1x" timestamp="1453641048003">
   <folder name="css">
     <file name="site_global.css" crc="497418720"/>
     <file name="index.css" crc="3791197225" ref="index"/>
@@ -8,7 +8,6 @@
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:tablet>index:index"/>
     <file name="museutils.js" crc="275725342" ref="phone>index:tablet>index:index"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:tablet>index:index"/>
     <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index:tablet>index:index"/>
     <file name="webpro.js" crc="3883484123" ref="phone>index:index"/>
@@ -16,8 +15,9 @@
     <file name="jquery.museoverlay.js" crc="342093292" ref="phone>index:index"/>
     <file name="touchswipe.js" crc="4218319045" ref="phone>index:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:tablet>index:index"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
-    <file name="museredirect.js" crc="3899419633" ref="tablet>index:index"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index"/>
   </folder>
   <folder name="images">
     <file name="logo-white.png" crc="212486849" ref="phone>index:tablet>index:index"/>
@@ -25,7 +25,7 @@
     <file name="u5262.png" crc="361625584" ref="phone>index"/>
     <file name="u5262-r.png" crc="68177469" ref="phone>index"/>
     <file name="u5262-a.png" crc="68177469" ref="phone>index"/>
-    <file name="01.jpg" crc="273275385" seo="true" ref="index"/>
+    <file name="01-crop-u10316.jpg" crc="4042607388" ref="phone>index"/>
     <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
     <file name="notebook_@2x.jpg" crc="345872913" ref="phone>index:index"/>
     <file name="christmas-present11.svg" crc="4106867674" ref="phone>index:index"/>
@@ -58,6 +58,7 @@
     <file name="u4979-r.png" crc="3780772591" ref="tablet>index"/>
     <file name="u4980.png" crc="172161059" ref="tablet>index"/>
     <file name="u4980-r.png" crc="3780772591" ref="tablet>index"/>
+    <file name="01.jpg" crc="273275385" seo="true" ref="index"/>
     <file name="02.jpg" crc="3970388526" seo="true" ref="index"/>
     <file name="nyr_logo.png" crc="516117815" ref="index"/>
     <file name="fsc.png" crc="4276554785" ref="index"/>
@@ -66,14 +67,13 @@
     <file name="soil-ass.png" crc="282822426" ref="index"/>
     <file name="vtct1-u1091.png" crc="4147054333" ref="index"/>
     <file name="vtct1-u1091-r.png" crc="4147054333" ref="index"/>
-    <file name="01-crop-u10316.jpg" crc="4042607388" ref="phone>index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
       <file name="index.css" crc="3817723201" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="4137546041" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="279771248" seo="true" mt="1453632072427" redirect="true"/>
+    <file name="index.html" crc="3873491040" seo="true" mt="1453632072427" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -82,5 +82,5 @@
     </folder>
     <file name="index.html" crc="3946622161" seo="true" mt="1453640466472" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4035375945" seo="true" mt="1453632756240" redirect="true"/>
+  <file name="index.html" crc="3832098976" seo="true" mt="1453641037848" redirect="true"/>
 </manifest>
