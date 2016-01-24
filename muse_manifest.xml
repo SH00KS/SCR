@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.susancarvillreflexology.co.uk" resolutions="1x" timestamp="1453642267901">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.susancarvillreflexology.co.uk" resolutions="1x" timestamp="1453643552307">
   <folder name="css">
     <file name="site_global.css" crc="497418720"/>
-    <file name="index.css" crc="4136512793" ref="index"/>
+    <file name="index.css" crc="3836125983" ref="index"/>
     <file name="iefonts_index.css" crc="151703762" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -60,8 +60,6 @@
     <file name="derma-tested.png" crc="4190697588" ref="index"/>
     <file name="carbon-neutral.png" crc="255328429" ref="index"/>
     <file name="soil-ass.png" crc="282822426" ref="index"/>
-    <file name="vtct1-u1091.png" crc="4147054333" ref="index"/>
-    <file name="vtct1-u1091-r.png" crc="4147054333" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -77,5 +75,5 @@
     </folder>
     <file name="index.html" crc="4224368278" seo="true" mt="1453642195031" redirect="true"/>
   </folder>
-  <file name="index.html" crc="341818389" seo="true" mt="1453642254861" redirect="true"/>
+  <file name="index.html" crc="3886542240" seo="true" mt="1453642693964" redirect="true"/>
 </manifest>

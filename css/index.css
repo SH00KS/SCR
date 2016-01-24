@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F6;
-	background-color: #8E2D19;
+	color: #0000E4;
+	background-color: #A6A31F;
 }
 
 .html
@@ -425,7 +425,7 @@
 
 #u9876-5
 {
-	z-index: 276;
+	z-index: 273;
 	width: 216px;
 	min-height: 16px;
 	background-color: transparent;
@@ -551,21 +551,26 @@
 
 #u356
 {
-	z-index: 281;
-	width: 1370px;
+	z-index: 278;
 	height: 79px;
 	border-style: solid;
 	border-color: #181818;
 	background-color: #292929;
-	position: fixed;
-	top: 80px;
-	left: -100px;
 	border-width: 0px 0px 1px;
+}
+
+#u356-bw
+{
+	z-index: 278;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: 80px;
 }
 
 #u305
 {
-	z-index: 287;
+	z-index: 284;
 	width: 80px;
 	height: 80px;
 	position: fixed;
@@ -576,7 +581,7 @@
 
 #menuu306
 {
-	z-index: 288;
+	z-index: 285;
 	width: 400px;
 	border-style: none;
 	border-color: transparent;
@@ -769,7 +774,7 @@
 
 #u9875-5
 {
-	z-index: 282;
+	z-index: 279;
 	width: 216px;
 	min-height: 16px;
 	background-color: transparent;
@@ -869,7 +874,7 @@
 
 #u9831
 {
-	z-index: 275;
+	z-index: 272;
 	width: 167px;
 	height: 78px;
 	left: 600px;
@@ -916,7 +921,7 @@
 
 #u9702-4
 {
-	z-index: 163;
+	z-index: 160;
 	width: 500px;
 	min-height: 55px;
 	background-color: transparent;
@@ -932,7 +937,7 @@
 
 #u9701-4
 {
-	z-index: 159;
+	z-index: 156;
 	width: 470px;
 	min-height: 55px;
 	background-color: transparent;
@@ -956,7 +961,7 @@
 
 #u9705
 {
-	z-index: 167;
+	z-index: 164;
 	width: 1370px;
 	background-color: #101010;
 	padding-bottom: 52px;
@@ -966,7 +971,7 @@
 
 #u9706
 {
-	z-index: 168;
+	z-index: 165;
 	width: 490px;
 	height: 587px;
 	position: relative;
@@ -986,7 +991,7 @@
 
 #u9717-4
 {
-	z-index: 242;
+	z-index: 239;
 	width: 400px;
 	min-height: 36px;
 	background-color: transparent;
@@ -1001,7 +1006,7 @@
 
 #u9707-4
 {
-	z-index: 169;
+	z-index: 166;
 	width: 35px;
 	min-height: 36px;
 	background-color: transparent;
@@ -1016,7 +1021,7 @@
 
 #u9713-4
 {
-	z-index: 201;
+	z-index: 198;
 	width: 270px;
 	min-height: 20px;
 	background-color: transparent;
@@ -1034,7 +1039,7 @@
 
 #u9728-4
 {
-	z-index: 173;
+	z-index: 170;
 	width: 35px;
 	min-height: 36px;
 	background-color: transparent;
@@ -1049,7 +1054,7 @@
 
 #u9718-4
 {
-	z-index: 209;
+	z-index: 206;
 	width: 270px;
 	min-height: 20px;
 	background-color: transparent;
@@ -1067,7 +1072,7 @@
 
 #u9729-4
 {
-	z-index: 177;
+	z-index: 174;
 	width: 35px;
 	min-height: 36px;
 	background-color: transparent;
@@ -1082,7 +1087,7 @@
 
 #u9719-4
 {
-	z-index: 217;
+	z-index: 214;
 	width: 270px;
 	min-height: 20px;
 	background-color: transparent;
@@ -1100,7 +1105,7 @@
 
 #u9730-4
 {
-	z-index: 181;
+	z-index: 178;
 	width: 35px;
 	min-height: 36px;
 	background-color: transparent;
@@ -1115,7 +1120,7 @@
 
 #u9720-4
 {
-	z-index: 225;
+	z-index: 222;
 	width: 270px;
 	min-height: 20px;
 	background-color: transparent;
@@ -1133,7 +1138,7 @@
 
 #u9731-4
 {
-	z-index: 185;
+	z-index: 182;
 	width: 35px;
 	min-height: 36px;
 	background-color: transparent;
@@ -1148,7 +1153,7 @@
 
 #u9721-4
 {
-	z-index: 237;
+	z-index: 234;
 	width: 270px;
 	min-height: 20px;
 	background-color: transparent;
@@ -1166,7 +1171,7 @@
 
 #u9732-4
 {
-	z-index: 189;
+	z-index: 186;
 	width: 35px;
 	min-height: 36px;
 	background-color: transparent;
@@ -1181,7 +1186,7 @@
 
 #u9726-4
 {
-	z-index: 205;
+	z-index: 202;
 	width: 270px;
 	min-height: 20px;
 	background-color: transparent;
@@ -1206,7 +1211,7 @@
 
 #u9733-4
 {
-	z-index: 193;
+	z-index: 190;
 	width: 35px;
 	min-height: 36px;
 	background-color: transparent;
@@ -1221,7 +1226,7 @@
 
 #u9725-4
 {
-	z-index: 213;
+	z-index: 210;
 	width: 270px;
 	min-height: 20px;
 	background-color: transparent;
@@ -1246,7 +1251,7 @@
 
 #u9734-4
 {
-	z-index: 197;
+	z-index: 194;
 	width: 35px;
 	min-height: 36px;
 	background-color: transparent;
@@ -1261,7 +1266,7 @@
 
 #u9724-4
 {
-	z-index: 221;
+	z-index: 218;
 	width: 270px;
 	min-height: 20px;
 	background-color: transparent;
@@ -1279,7 +1284,7 @@
 
 #u9723-4
 {
-	z-index: 229;
+	z-index: 226;
 	width: 270px;
 	min-height: 20px;
 	background-color: transparent;
@@ -1296,7 +1301,7 @@
 
 #u9727-4
 {
-	z-index: 233;
+	z-index: 230;
 	width: 270px;
 	min-height: 20px;
 	background-color: transparent;
@@ -1322,7 +1327,7 @@
 
 #u9811
 {
-	z-index: 268;
+	z-index: 265;
 	width: 1370px;
 	padding-bottom: 99px;
 	left: -100px;
@@ -1333,7 +1338,7 @@
 
 #u9812-6
 {
-	z-index: 269;
+	z-index: 266;
 	width: 1170px;
 	min-height: 25px;
 	background-color: transparent;
@@ -1349,9 +1354,15 @@
 	left: 162px;
 }
 
+#pu9737
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
 #u9737
 {
-	z-index: 246;
+	z-index: 243;
 	width: 1370px;
 	padding-bottom: 37px;
 	position: relative;
@@ -1361,7 +1372,7 @@
 
 #u9740
 {
-	z-index: 255;
+	z-index: 252;
 	width: 245px;
 	height: 175px;
 	position: relative;
@@ -1382,7 +1393,7 @@
 
 #u9738-4
 {
-	z-index: 247;
+	z-index: 244;
 	width: 530px;
 	min-height: 25px;
 	background-color: transparent;
@@ -1397,7 +1408,7 @@
 
 #u9739-4
 {
-	z-index: 251;
+	z-index: 248;
 	width: 760px;
 	min-height: 25px;
 	background-color: transparent;
@@ -1420,7 +1431,7 @@
 
 #u9747
 {
-	z-index: 256;
+	z-index: 253;
 	width: 87px;
 	height: 75px;
 	position: relative;
@@ -1431,7 +1442,7 @@
 
 #u9748
 {
-	z-index: 257;
+	z-index: 254;
 	width: 87px;
 	height: 75px;
 	position: relative;
@@ -1443,7 +1454,7 @@
 
 #u9749
 {
-	z-index: 258;
+	z-index: 255;
 	width: 87px;
 	height: 75px;
 	position: relative;
@@ -1455,7 +1466,7 @@
 
 #u9750
 {
-	z-index: 259;
+	z-index: 256;
 	width: 87px;
 	height: 75px;
 	position: relative;
@@ -1467,7 +1478,7 @@
 
 #u9778-4
 {
-	z-index: 264;
+	z-index: 261;
 	width: 370px;
 	min-height: 25px;
 	background-color: transparent;
@@ -1484,7 +1495,7 @@
 
 #u9775-4
 {
-	z-index: 260;
+	z-index: 257;
 	width: 475px;
 	min-height: 58px;
 	background-color: transparent;
@@ -1701,20 +1712,14 @@
 	margin-top: 81px;
 }
 
-#pu9737,#pu1088
-{
-	width: 0.01px;
-	margin-left: -100px;
-}
-
 #u1088
 {
 	z-index: 2;
 	width: 1370px;
 	background-color: transparent;
 	padding-bottom: 114px;
+	left: -100px;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #u1089-5
@@ -1739,24 +1744,6 @@
 {
 	font-family: raleway, sans-serif;
 	font-weight: 400;
-}
-
-#u1091
-{
-	z-index: 154;
-	height: 50px;
-	width: 89px;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 26px;
-	left: 1181px;
-	background: url("../images/vtct1-u1091.png") no-repeat 0px 0px;
-}
-
-#u1091:hover
-{
-	background: url("../images/vtct1-u1091-r.png") no-repeat 0px 0px;
 }
 
 body

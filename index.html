@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "index.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musemenu.js", "jquery.scrolleffects.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "index.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -12,7 +12,7 @@
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?497418720"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?4136512793" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?3836125983" id="pagesheet"/>
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?151703762"/>
   <![endif]-->
@@ -108,7 +108,9 @@ var __adobewebfontsappname__ = "muse";
       </div>
      </nav>
     </div>
-    <div class="ose_pre_init mse_pre_init" id="u356"><!-- simple frame --></div>
+    <div class="browser_width mse_pre_init" id="u356-bw">
+     <div class="ose_pre_init" id="u356"><!-- simple frame --></div>
+    </div>
     <div class="ose_pre_init mse_pre_init" id="u305"><!-- simple frame --></div>
     <nav class="MenuBar clearfix ose_pre_init mse_pre_init" id="menuu306"><!-- horizontal box -->
      <div class="MenuItemContainer clearfix grpelem" id="u335"><!-- vertical box -->
@@ -302,18 +304,12 @@ var __adobewebfontsappname__ = "muse";
       </div>
      </div>
     </div>
-    <div class="clearfix colelem" id="pu1088"><!-- group -->
-     <div class="clearfix grpelem" id="u1088"><!-- group -->
-      <div class="clearfix grpelem" id="u1089-5"><!-- content -->
-       <p>&nbsp;@2015 SUSANCARVILLREFLEXOLOGY. <span id="u1089-2">ALL RIGHTS RESERVED.</span></p>
-      </div>
+    <div class="clearfix colelem" id="u1088"><!-- group -->
+     <div class="clearfix grpelem" id="u1089-5"><!-- content -->
+      <p>&nbsp;@2015 SUSANCARVILLREFLEXOLOGY. <span id="u1089-2">ALL RIGHTS RESERVED.</span></p>
      </div>
-     <div class="grpelem" id="u1091"><!-- state-based BG images --></div>
     </div>
    </div>
-  </div>
-  <div class="preload_images">
-   <img class="preload" src="images/vtct1-u1091-r.png" alt=""/>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">
@@ -329,8 +325,8 @@ var __adobewebfontsappname__ = "muse";
   <script src="scripts/touchswipe.js?4218319045" type="text/javascript"></script>
   <script src="scripts/jquery.musemenu.js?4042164668" type="text/javascript"></script>
   <script src="scripts/jquery.scrolleffects.js?206645848" type="text/javascript"></script>
-  <script src="scripts/jquery.musepolyfill.bgsize.js?185257658" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?3999102769" type="text/javascript"></script>
+  <script src="scripts/jquery.musepolyfill.bgsize.js?185257658" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    $(document).ready(function() { try {
@@ -341,8 +337,9 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('#slideshowu158', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {heroFitting:'fillFrameProportionally',autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu158 */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#u356').registerPositionScrollEffect([{"speed":[1,1],"in":[-Infinity,80]},{"speed":[0,0],"in":[80,Infinity]}]);/* scroll effect */
+$('#u356-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,80]},{"speed":[null,0],"in":[80,Infinity]}]);/* scroll effect */
 $('#u356').registerOpacityScrollEffect([{"fade":50,"opacity":0,"in":[-Infinity,80]},{"opacity":100,"in":[80,80]},{"fade":50,"opacity":100,"in":[80,Infinity]}]);/* scroll effect */
+Muse.Utils.resizeHeight()/* resize height */
 $('#u305').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,80]},{"speed":[0,0],"in":[80,Infinity]}]);/* scroll effect */
 $('#u305').registerOpacityScrollEffect([{"fade":50,"opacity":0,"in":[-Infinity,80]},{"opacity":100,"in":[80,80]},{"fade":50,"opacity":100,"in":[80,Infinity]}]);/* scroll effect */
 $('#menuu306').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,80]},{"speed":[0,0],"in":[80,Infinity]}]);/* scroll effect */
@@ -350,7 +347,6 @@ $('#menuu306').registerOpacityScrollEffect([{"fade":50,"opacity":0,"in":[-Infini
 $('#u9875-5').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,80]},{"speed":[0,0],"in":[80,Infinity]}]);/* scroll effect */
 $('#u9875-5').registerOpacityScrollEffect([{"fade":50,"opacity":0,"in":[-Infinity,80]},{"opacity":100,"in":[80,80]},{"fade":50,"opacity":100,"in":[80,Infinity]}]);/* scroll effect */
 $('#u397').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,1126.7]},{"speed":[0,0],"in":[1126.7,Infinity]}]);/* scroll effect */
-Muse.Utils.resizeHeight()/* resize height */
 $('#u9811').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,2277]},{"speed":[0,0],"in":[2277,Infinity]}]);/* scroll effect */
 $('#u9737').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,2515]},{"speed":[0,0],"in":[2515,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
