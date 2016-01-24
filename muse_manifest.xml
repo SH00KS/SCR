@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.susancarvillreflexology.co.uk" resolutions="1x" timestamp="1453631712080">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.susancarvillreflexology.co.uk" resolutions="1x" timestamp="1453640500185">
   <folder name="css">
     <file name="site_global.css" crc="497418720"/>
-    <file name="index.css" crc="478031739" ref="index"/>
+    <file name="index.css" crc="3791197225" ref="index"/>
     <file name="iefonts_index.css" crc="151703762" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -9,7 +9,7 @@
     <file name="museutils.js" crc="275725342" ref="phone>index:tablet>index:index"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>index:tablet>index:index"/>
     <file name="jquery.watch.js" crc="3999102769" ref="phone>index:tablet>index:index"/>
-    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index:tablet>index:index"/>
     <file name="webpro.js" crc="3883484123" ref="phone>index:index"/>
     <file name="musewpslideshow.js" crc="360574455" ref="phone>index:index"/>
@@ -20,12 +20,12 @@
     <file name="museredirect.js" crc="3899419633" ref="tablet>index:index"/>
   </folder>
   <folder name="images">
-    <file name="logo-white.png" crc="3762974709" ref="phone>index:index"/>
+    <file name="logo-white.png" crc="212486849" ref="phone>index:tablet>index:index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
     <file name="u5262.png" crc="361625584" ref="phone>index"/>
     <file name="u5262-r.png" crc="68177469" ref="phone>index"/>
     <file name="u5262-a.png" crc="68177469" ref="phone>index"/>
-    <file name="01.jpg" crc="273275385" seo="true" ref="phone>index:index"/>
+    <file name="01.jpg" crc="273275385" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
     <file name="notebook_@2x.jpg" crc="345872913" ref="phone>index:index"/>
     <file name="christmas-present11.svg" crc="4106867674" ref="phone>index:index"/>
@@ -40,7 +40,6 @@
     <file name="vtct1-u10389.png" crc="4147054333" ref="phone>index"/>
     <file name="vtct1-u10389-r.png" crc="4147054333" ref="phone>index"/>
     <file name="12.jpg" crc="4172687976" ref="tablet>index"/>
-    <file name="logo-white2.png" crc="140518028" ref="tablet>index"/>
     <file name="scroll-down.gif" crc="332714920" ref="tablet>index"/>
     <file name="u4957-4.png" crc="54191417" ref="tablet>index"/>
     <file name="u4962.png" crc="4294586695" ref="tablet>index"/>
@@ -67,20 +66,21 @@
     <file name="soil-ass.png" crc="282822426" ref="index"/>
     <file name="vtct1-u1091.png" crc="4147054333" ref="index"/>
     <file name="vtct1-u1091-r.png" crc="4147054333" ref="index"/>
+    <file name="01-crop-u10316.jpg" crc="4042607388" ref="phone>index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="471789533" ref="tablet>index"/>
+      <file name="index.css" crc="3817723201" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="4137546041" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="279771248" seo="true" mt="1453629997968" redirect="true"/>
+    <file name="index.html" crc="279771248" seo="true" mt="1453632072427" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="256078897" ref="phone>index"/>
+      <file name="index.css" crc="4142211017" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4211462753" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="253123203" seo="true" mt="1453631020829" redirect="true"/>
+    <file name="index.html" crc="3946622161" seo="true" mt="1453640466472" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3784024960" seo="true" mt="1453631071340" redirect="true"/>
+  <file name="index.html" crc="4035375945" seo="true" mt="1453632756240" redirect="true"/>
 </manifest>

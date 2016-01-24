@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000F;
-	background-color: #437431;
+	color: #0000F6;
+	background-color: #E51FC9;
 }
 
 @-ms-viewport
@@ -48,20 +48,15 @@
 #u5362
 {
 	z-index: 38;
+	width: 380px;
 	height: 59px;
 	border-style: solid;
 	border-color: #181818;
 	background-color: #292929;
-	border-width: 0px 0px 1px;
-}
-
-#u5362-bw
-{
-	z-index: 38;
 	position: fixed;
-	left: 0px;
-	right: 0px;
 	top: 0px;
+	left: 0px;
+	border-width: 0px 0px 1px;
 }
 
 #home
@@ -447,8 +442,8 @@
 	background-color: transparent;
 	padding: 10px;
 	color: #999999;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -640,7 +635,9 @@
 #u10337
 {
 	z-index: 83;
-	min-height: 173px;
+	width: 292px;
+	margin-top: 33px;
+	position: relative;
 	padding: 21px 44px;
 	background: transparent url("../../images/notebook_%402x.jpg") repeat center center;
 }
@@ -675,13 +672,6 @@
 	font-weight: 600;
 	margin-top: 24px;
 	position: relative;
-}
-
-#u10337-bw
-{
-	z-index: 83;
-	min-height: 173px;
-	margin-top: 33px;
 }
 
 #u10349-4
@@ -721,22 +711,19 @@
 #u10351
 {
 	z-index: 137;
+	width: 380px;
 	height: 456px;
-	background: transparent url("../../images/foot.jpg") no-repeat center center;
-}
-
-#u10351-bw
-{
-	z-index: 137;
 	margin-top: 58px;
-	height: 456px;
+	position: relative;
+	background: transparent url("../../images/foot.jpg") no-repeat center center;
 }
 
 #u10350
 {
 	z-index: 136;
-	min-height: 555.7368292682934px;
+	width: 325px;
 	background-color: #101010;
+	position: relative;
 	padding: 71px 35px 61.26317073170662px 20px;
 }
 
@@ -759,8 +746,7 @@
 {
 	width: 0.01px;
 	margin-left: 5px;
-	margin-top: 11px;
-	position: relative;
+	margin-top: 15px;
 }
 
 #u10352-4
@@ -770,8 +756,8 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #20CA9C;
-	font-size: 28px;
 	line-height: 34px;
+	font-size: 28px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -803,8 +789,8 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #20CA9C;
-	font-size: 28px;
 	line-height: 34px;
+	font-size: 28px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -836,8 +822,8 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #20CA9C;
-	font-size: 28px;
 	line-height: 34px;
+	font-size: 28px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -869,8 +855,8 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #20CA9C;
-	font-size: 28px;
 	line-height: 34px;
+	font-size: 28px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -902,8 +888,8 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #20CA9C;
-	font-size: 28px;
 	line-height: 34px;
+	font-size: 28px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -935,8 +921,8 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #20CA9C;
-	font-size: 28px;
 	line-height: 34px;
+	font-size: 28px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -966,7 +952,6 @@
 	width: 0.01px;
 	margin-left: 5px;
 	margin-top: 9px;
-	position: relative;
 }
 
 #u10358-4
@@ -976,8 +961,8 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #20CA9C;
-	font-size: 28px;
 	line-height: 34px;
+	font-size: 28px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -1007,7 +992,6 @@
 	width: 0.01px;
 	margin-left: 5px;
 	margin-top: 10px;
-	position: relative;
 }
 
 #u10359-4
@@ -1017,8 +1001,8 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #20CA9C;
-	font-size: 28px;
 	line-height: 34px;
+	font-size: 28px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -1084,17 +1068,13 @@
 	position: relative;
 }
 
-#u10350-bw
-{
-	z-index: 136;
-	min-height: 555.7368292682934px;
-}
-
 #u10382
 {
 	z-index: 237;
-	min-height: 203px;
+	width: 380px;
 	padding-bottom: 59px;
+	margin-top: 3px;
+	position: relative;
 	background: transparent url("../../images/8012447_orig.jpg") repeat center center;
 }
 
@@ -1114,13 +1094,6 @@
 	margin-right: -10000px;
 	margin-top: 59px;
 	left: 20px;
-}
-
-#u10382-bw
-{
-	z-index: 237;
-	min-height: 203px;
-	margin-top: 3px;
 }
 
 #u10372
@@ -1186,7 +1159,7 @@
 	line-height: 24px;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
-	margin-top: 10px;
+	margin-top: 13px;
 	position: relative;
 }
 
