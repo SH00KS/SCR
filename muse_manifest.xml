@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.susancarvillreflexology.co.uk" resolutions="1x" timestamp="1453632089489">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.susancarvillreflexology.co.uk" resolutions="1x" timestamp="1453632820978">
   <folder name="css">
     <file name="site_global.css" crc="497418720"/>
-    <file name="index.css" crc="3865357636" ref="index"/>
+    <file name="index.css" crc="3791197225" ref="index"/>
     <file name="iefonts_index.css" crc="151703762" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -9,7 +9,7 @@
     <file name="museutils.js" crc="275725342" ref="phone>index:tablet>index:index"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>index:tablet>index:index"/>
     <file name="jquery.watch.js" crc="3999102769" ref="phone>index:tablet>index:index"/>
-    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index:tablet>index:index"/>
     <file name="webpro.js" crc="3883484123" ref="phone>index:index"/>
     <file name="musewpslideshow.js" crc="360574455" ref="phone>index:index"/>
@@ -81,5 +81,5 @@
     </folder>
     <file name="index.html" crc="253123203" seo="true" mt="1453632072412" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3784024960" seo="true" mt="1453632072411" redirect="true"/>
+  <file name="index.html" crc="4035375945" seo="true" mt="1453632756240" redirect="true"/>
 </manifest>
