@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.susancarvillreflexology.co.uk" resolutions="1x" timestamp="1453643552307">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.susancarvillreflexology.co.uk" resolutions="1x" timestamp="1454758717893">
   <folder name="css">
     <file name="site_global.css" crc="497418720"/>
-    <file name="index.css" crc="3836125983" ref="index"/>
-    <file name="iefonts_index.css" crc="151703762" ref="index"/>
+    <file name="index.css" crc="175723184" ref="index"/>
+    <file name="iefonts_index.css" crc="3767989132" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:tablet>index:index"/>
@@ -75,5 +75,5 @@
     </folder>
     <file name="index.html" crc="4224368278" seo="true" mt="1453642195031" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3886542240" seo="true" mt="1453642693964" redirect="true"/>
+  <file name="index.html" crc="3952537989" seo="true" mt="1454758658769" redirect="true"/>
 </manifest>
